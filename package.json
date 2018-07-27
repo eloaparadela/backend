@@ -1,0 +1,16 @@
+{
+  "name": "pessoas.json",
+  "version": "1.0.0",
+  "description": "cadastro de pessoas",
+  "main": "cadastro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pessoas",
+    "cadastro",
+    "email"
+  ],
+  "author": "Eloa Paradela",
+  "license": "ISC"
+}
